@@ -20,7 +20,6 @@ plain_text = """A test string, just for practice - here in Houston."""
 
 # This is the easy secret message for optional decryption
 easy_secret = """S xgjx llvkek, cmwv wsk hvctxbui - jvvx ar Jfyllsp."""
-"""
 
 # single letter encryptor
 def encrypt_letter(text_letter, code_letter):
