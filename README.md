@@ -1,2 +1,2 @@
 # UH_python_projects
-Python projects developed at UH Main Campus
+Python3 projects developed at UH Main Campus
