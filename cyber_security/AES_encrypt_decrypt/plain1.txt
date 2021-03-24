@@ -1,0 +1,11 @@
+Mr. Moran,
+
+The exchange will happen on February 21st at midnight. Do not be late.
+I have sent further instructions in a separate message, which you may find at:
+http://bit.ly/3azxdfR
+
+To protect the secrecy of this message, I have encrypted it. I used the same cipher, mode, key, and IV as for this message (i.e., AES in CBC mode without padding, 128-bit key with byte values 1, 2, and so on, and all-zero IV). Unfortunately, the three blocks of the ciphertext seem to have been mixed up, and they are now in the wrong order. Please rearrange them before decryption.
+
+Sincerely,
+Prof. Moriarty           
+  

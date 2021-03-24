@@ -1,0 +1,6 @@
+Mr. Moran,
+
+I have encrypted the exact location of the meeting using AES in CBC mode without padding and with an all-zero IV. The key is my birthdate: first byte is the month, second byte is the day, and the third byte is the year (just two digits, i.e., number between 0 and 99), and the remaining bytes are all zero.
+
+Sincerely,
+Professor Moriarty
